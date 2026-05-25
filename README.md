@@ -1,7 +1,7 @@
 # nhl-expected-net-effective-value
 # xNEV
 
-A shot-quality model for NHL 5v5 play that extends expected goals (xG) with zone state - what happens after the shot is taken.
+A shot quality stat that extends NHL expected goals with what happens after the shot is taken.
 
 ## What it measures
 
